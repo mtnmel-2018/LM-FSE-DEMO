@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Melissa's Bio</title>
+  <link rel="stylesheet" href="bio.css">
+</head>
+<body>
+1
+  <header>
+    <img src="profilepic.jpg" alt="Mel" class="profile-img">
+    <h1>Melissa</h1>
+    <p>People Leader, Fine-Line Drawing Enthusiast, Coffee Lover</p>
+    <p>Follow me on LinkedIn at petalandpeak.nh</p>
+    <p>
+        <a href="https://www.linkedin.com/in/melissa1820/"
+  target="_blank">LinkedIn</a>
+</p>
+</header>
+    </h1>
+  </header>
+  <main>
+    <section class="bio">
+        <h2>About Me</h2>
+        <p>Im Melissa, a dedicated IT professional and people leader who loves turning innovative ideas into action. Outside of work, I express my creativity through drawing, painting, and cooking, all while enjoying the sounds of my record player. I lead an active lifestyle, training in Brazilian Jiu-Jitsu (BJJ), mountain biking, skiing, and riding motocross. I’m also passionate about mental health awareness and enjoy discussing the realities of being a working mom while living with ADHD. With a blend of creativity and compassion, I’m committed to personal growth and supporting others on their journeys.</p>
+    </section>
+    <section class="projects">
+        <h2>LM Work Projects</h2>
+        <ul>
+        <li><a href="https://teams-at-liberty.lmig.com/" target="Teams at Liberty">Leading Amazing Teams</a></li>
+        <li><a href="https://id.atlassian.com/login?email=melissa.rogersc@libertymutual.com&application=jira&continue=https%3A%2F%2Flibertymutual.atlassian.net%2Fservicedesk%2Fcustomer%2Fportal%2F4712" target="Leading the Volunteer Process for Able at Liberty">Painting</a></li>
+        <li><a href="https://paymenthub.lmig.com/" target="Payment Hub">Paymnet Hub</a></li>
+        </ul>
+    </section>
+  </main>
+  <footer>
+     <p>Contact me at: <a href="mailto:melissa.rogersc@libertymutual.com">melissa.rogersc@libertymutual.com</a></p>
+    </footer>
+</body>
+</html>
